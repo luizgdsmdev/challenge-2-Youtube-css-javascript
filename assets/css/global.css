@@ -1,7 +1,7 @@
 *{
     margin: 0;
     padding: 0;
-    font-family: Raleway;
+    font-family: "Roboto","Arial",sans-serif;
     list-style: none;
     text-decoration: none;
 }
@@ -12,8 +12,8 @@
 
 .main{
     display: grid;
-    background-color: brown;
-    grid-template-columns: 15rem 10fr;
+    background-color: var(--global-background-darkMode);
+    grid-template-columns: 17rem 10fr;
     grid-template-rows: 4.6rem 1fr 10fr;
     grid-template-areas: 
     "header header header header"
@@ -25,14 +25,7 @@
 
 
 
-.sidebar{
-    background-color: red;
-    grid-area: sidebar;
-}
 
-.content-main{
-    grid-area: content-main;
-}
 
 .footer{
     background-color: yellow;
@@ -40,18 +33,21 @@
 }
 
 
-
 @media screen and (max-width:1440px){
+    .main{
+        grid-template-columns: 14rem 10fr;
+    }
+    .sidebar{
+        margin-left: 0.5rem;
+    }
+}
+
+@media screen and (max-width:1024px){
     .main{
         grid-template-columns: 6rem 10fr;
     }
 }
 
-@media screen and (max-width:1440px){
-    .main{
-        grid-template-columns: 4rem 10fr;
-    }
-}
 
 @media screen and (max-width:768px){
     .main{

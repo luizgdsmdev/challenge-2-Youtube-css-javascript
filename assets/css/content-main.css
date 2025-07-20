@@ -7,6 +7,7 @@
     "tags-list"
     "videos-list";
     background-color: var(--global-background-darkMode);
+    grid-area: content-main;
 }
 
 .tags-list {
@@ -413,10 +414,6 @@
 }
 
 
-
-
-
-
 @media screen and (max-width:1440px){
     .video-card-details-text h3{
         font-size: 1rem;
@@ -574,3 +571,7 @@
         max-width: 265px;
     }
 }
+
+
+
+

@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <link rel="stylesheet" href="./assets/css/global.css">
     <link rel="stylesheet" href="./assets/css/header.css">
+    <link rel="stylesheet" href="./assets/css/sidebar.css">
     <link rel="stylesheet" href="./assets/css/content-main.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -63,7 +64,158 @@
         </header>
 
         <nav id="sidebar" class="sidebar">
-            navbar
+            <div id="sidebar-wrapper" class="sidebar-wrapper">
+                <ul>
+                    <li id="sidebar-block-top" class="sidebar-item sidebar-block-top">
+                        <ul>
+                            <li id="sidebar-block-home" class="sidebar-item sidebar-block-home sidebar-block-selected">
+                                <img id="sidebar-block-home-svg" class="sidebar-item sidebar-block-home-svg" alt="home" title="home" src="./assets/svg/svg-home-icon.svg">
+                                <p>Home</p>
+                            </li>
+
+                            <li id="sidebar-block-shorts" class="sidebar-item sidebar-block-shorts">
+                                <img id="sidebar-block-shorts-svg" class="sidebar-item sidebar-block-shorts-svg" alt="shorts" title="shorts" src="./assets/svg/svg-shorts-icon.svg">
+                                <p>Shorts</p>    
+                            </li>
+
+                            <li id="sidebar-block-subscriptions" class="sidebar-item sidebar-block-subscriptions">
+                                <img id="sidebar-block-subscriptions-svg" class="sidebar-item sidebar-block-subscriptions-svg" alt="subscriptions" title="subscriptions" src="./assets/svg/svg-shorts-sub.svg">
+                                <p>Subscriptions</p>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+
+                <ul>
+                    <li id="sidebar-block-subscription" class="sidebar-item sidebar-block-subscription">
+                        <ul>
+
+                            <li id="sidebar-block-title" class="sidebar-item sidebar-block-title">
+                                <p>Subscriptions</p>
+                                <img id="sidebar-block-subscription-you-svg" class="sidebar-item sidebar-block-subscription-you-svg" alt="Subscriptions" title="Subscriptions" src="./assets/svg/svgexport-14.svg">
+                                
+                            </li>
+
+                            <li id="sidebar-block-subscription-history" class="sidebar-item sidebar-block-subscription-history sidebar-block-subscription-selected">
+                                <img id="sidebar-block-subscription-history-svg" class="sidebar-item sidebar-block-subscription-history-svg" alt="history" title="history" src="./assets/svg/svgexport-15.svg">
+                                <p>History</p>
+                            </li>
+
+                            <li id="sidebar-block-subscription-playlists" class="sidebar-item sidebar-block-subscription-playlists">
+                                <img id="sidebar-block-subscription-playlists-svg" class="sidebar-item sidebar-block-subscription-playlists-svg" alt="Playlists" title="Playlists" src="./assets/svg/svgexport-16.svg">
+                                <p>Playlists</p>    
+                            </li>
+
+                            <li id="sidebar-block-subscription-user-videos" class="sidebar-item sidebar-block-subscription-user-videos">
+                                <img id="sidebar-block-subscription-user-videos-svg" class="sidebar-item sidebar-block-subscription-user-videos-svg" alt="user videos" title="user videos" src="./assets/svg/svgexport-17.svg">
+                                <p>Your videos</p>
+                            </li>
+
+                            <li id="sidebar-block-subscription-Watch-later" class="sidebar-item sidebar-block-subscription-Watch-later">
+                                <img id="sidebar-block-subscription-Watch-later-svg" class="sidebar-item sidebar-block-subscription-Watch-later-svg" alt="Watch later" title="Watch later" src="./assets/svg/svgexport-18.svg">
+                                <p>Watch later</p>
+                            </li>
+
+                            <li id="sidebar-block-subscription-liked-videos" class="sidebar-item sidebar-block-subscription-liked-videos">
+                                <img id="sidebar-block-subscription-liked-videos-svg" class="sidebar-item sidebar-block-subscription-liked-videos-svg" alt="Likes" title="Likes" src="./assets/svg/svgexport-19.svg">
+                                <p>With "like"</p>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+
+                <ul>
+                    <li id="sidebar-block-explore" class="sidebar-item sidebar-block-explore">
+                        <ul>
+
+                            <li id="sidebar-block-title" class="sidebar-item sidebar-block-title">
+                                <p>Explore</p>
+                                <img id="sidebar-block-explore-you-svg" class="sidebar-item sidebar-block-explore-you-svg" alt="Shopping" title="Shopping" src="./assets/svg/svgexport-14.svg">
+                                
+                            </li>
+
+                            <li id="sidebar-block-shopping" class="sidebar-item sidebar-block-shopping sidebar-block-explore-selected">
+                                <img id="sidebar-block-shopping-svg" class="sidebar-item sidebar-block-shopping-svg" alt="Shopping" title="Shopping" src="./assets/svg/svgexport-25.svg">
+                                <p>Shopping</p>
+                            </li>
+
+                            <li id="sidebar-block-explore-music" class="sidebar-item sidebar-block-explore-music sidebar-block-explore-selected">
+                                <img id="sidebar-block-explore-music-svg" class="sidebar-item sidebar-block-explore-music-svg" alt="Music" title="Music" src="./assets/svg/svgexport-25.svg">
+                                <p>Music</p>
+                            </li>
+
+                            <li id="sidebar-block-explore-movies" class="sidebar-item sidebar-block-explore-movies">
+                                <img id="sidebar-block-explore-movies-svg" class="sidebar-item sidebar-block-explore-movies-svg" alt="Movies" title="Movies" src="./assets/svg/svgexport-26.svg">
+                                <p>Movies</p>    
+                            </li>
+
+                            <li id="sidebar-block-explore-lives" class="sidebar-item sidebar-block-explore-lives">
+                                <img id="sidebar-block-explore-lives-svg" class="sidebar-item sidebar-block-explore-lives-svg" alt="Lives" title="Lives" src="./assets/svg/svgexport-27.svg">
+                                <p>Live</p>
+                            </li>
+
+                            <li id="sidebar-block-explore-games" class="sidebar-item sidebar-block-explore-games">
+                                <img id="sidebar-block-explore-games-svg" class="sidebar-item sidebar-block-explore-games-svg" alt="Games" title="Games" src="./assets/svg/svgexport-28.svg">
+                                <p>Games</p>
+                            </li>
+
+                            <li id="sidebar-block-explore-news" class="sidebar-item sidebar-block-explore-news">
+                                <img id="sidebar-block-explore-news-svg" class="sidebar-item sidebar-block-explore-news-svg" alt="News" title="News" src="./assets/svg/svgexport-29.svg">
+                                <p>News</p>
+                            </li>
+
+                            <li id="sidebar-block-explore-sports" class="sidebar-item sidebar-block-explore-sports">
+                                <img id="sidebar-block-explore-sports-svg" class="sidebar-item sidebar-block-explore-sports-svg" alt="Sports" title="Sports" src="./assets/svg/svgexport-30.svg">
+                                <p>Sports</p>
+                            </li>
+
+                            <li id="sidebar-block-explore-courses" class="sidebar-item sidebar-block-explore-courses">
+                                <img id="sidebar-block-explore-courses-svg" class="sidebar-item sidebar-block-explore-courses-svg" alt="Courses" title="Courses" src="./assets/svg/svgexport-31.svg">
+                                <p>Courses</p>
+                            </li>
+
+                            <li id="sidebar-block-podcasts" class="sidebar-item sidebar-block-podcasts">
+                                <img id="sidebar-block-podcasts-svg" class="sidebar-item sidebar-block-podcasts-svg" alt="Podcasts" title="Podcasts" src="./assets/svg/svgexport-32.svg">
+                                <p>Podcasts</p>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+
+                <ul>
+                    <li id="sidebar-block-youtube-plus" class="sidebar-item sidebar-block-youtube-plus">
+                        <ul>
+
+                            <li id="sidebar-block-title" class="sidebar-item sidebar-block-title">
+                                <p>Plus</p>
+                                <img id="sidebar-block-youtube-plus-you-svg" class="sidebar-item sidebar-block-youtube-plus-you-svg" alt="Shopping" title="Shopping" src="./assets/svg/svgexport-14.svg">
+                                
+                            </li>
+
+                            <li id="sidebar-block-youtube-premium" class="sidebar-item sidebar-block-youtube-premium sidebar-block-explore-selected">
+                                <img id="sidebar-block-youtube-premium-svg" class="sidebar-item sidebar-block-youtube-premium-svg" alt="Youtube Premium" title="Youtube Premium" src="./assets/svg/svgexport-33.svg">
+                                <p>Premium</p>
+                            </li>
+
+                            <li id="sidebar-block-youtube-studio" class="sidebar-item sidebar-block-youtube-studio sidebar-block-explore-selected">
+                                <img id="sidebar-block-youtube-studio-svg" class="sidebar-item sidebar-block-youtube-studio-svg" alt="Youtube Studio" title="Youtube Studio" src="./assets/svg/svgexport-34.svg">
+                                <p>Studio</p>
+                            </li>
+
+                            <li id="sidebar-block-youtube-music" class="sidebar-item sidebar-block-youtube-music">
+                                <img id="sidebar-block-youtube-music-svg" class="sidebar-item sidebar-block-youtube-music-svg" alt="Youtube Music" title="Youtube Music" src="./assets/svg/svgexport-35.svg">
+                                <p>Music</p>    
+                            </li>
+
+                            <li id="sidebar-block-youtube-kids" class="sidebar-item sidebar-block-youtube-kids">
+                                <img id="sidebar-block-youtube-kids-svg" class="sidebar-item sidebar-block-youtube-kids-svg" alt="Youtube Kids" title="Youtube Kids" src="./assets/svg/svgexport-36.svg">
+                                <p>Kids</p>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+                
+            </div>
         </nav>
 
         <section id="content-main" class="content-main">
@@ -367,7 +519,7 @@
                     </ul>
                 </section>
 
-                 <!-- VIDEOS LIST -->
+                <!-- VIDEOS LIST -->
                 <section id="videos-section-video" class="videos-section-video">
                     <ul>
                         <li>
@@ -528,6 +680,8 @@
                     </ul>
                 </section>
 
+
+                <!-- NEWS LIST -->
                 <div id="news-section-icon-block" class="news-section-icon-block">
                     <img src="./assets/svg/svg-clock.svg" alt="" >Latest News
                 </div>
@@ -681,6 +835,168 @@
                                                 <div id="latest-news-card-details-block-in" class="latest-news-card-details-block-in">
                                                     <p>triple j</p>
                                                     <img id="latest-news-card-details-verify-channel" class="latest-news-card-details-verify-channel" src="" alt="">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </section>
+
+
+                <!-- FINAL VIDEOS LIST -->
+                <section id="final-videos-section-video" class="videos-section-video">
+                    <ul>
+                        <li>
+                            <div id="video-card" class="video-card">
+                                <img id="video-card-thumb" class="video-card-thumb" alt="" src="https://i.ytimg.com/vi/Ec08db2hP10/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBTHZ6Bn7fqu2Nf57CwgtOahVJoIQ" >
+                                <div id="video-card-details" class="video-card-details">
+                                    <div id="video-card-details-text" class="video-card-details-text">
+                                        
+                                        <div id="video-card-details-text-tile" class="video-card-details-text-tile">
+                                            <h3>Djo - 'End of Beginning' (live at Laneway 2025)</h3>
+                                            <img id="video-card-thumb-dots-menu" class="video-card-thumb-dots-menu" title="Options" alt="Options" src="./assets/svg/svg-three-dots.svg" >
+                                        </div>
+
+
+                                        <div id="video-card-details-text-2" class="video-card-details-text-2">
+                                            <img id="video-card-details-channel-img" class="video-card-details-channel-img" alt="" src="https://yt3.ggpht.com/cmycB_xqU9BRUqBeDxft-hZZGOi0jiX-u0rj1d7W_8sDlPxxWZk-9Qxiafbns3qdiIuG3BRqZQ=s68-c-k-c0x00ffffff-no-rj" >
+                                            <div id="video-card-details-block" class="video-card-details-block">
+                                                <div id="video-card-details-block-in" class="video-card-details-block-in">
+                                                    <p>triple j</p>
+                                                    <img id="video-card-details-verify-channel" class="video-card-details-verify-channel" src="" alt="">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li>
+                            <div id="video-card" class="video-card">
+                                <img id="video-card-thumb" class="video-card-thumb" alt="" src="https://i.ytimg.com/vi/Ec08db2hP10/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBTHZ6Bn7fqu2Nf57CwgtOahVJoIQ" >
+                                <div id="video-card-details" class="video-card-details">
+                                    <div id="video-card-details-text" class="video-card-details-text">
+                                        
+                                        <div id="video-card-details-text-tile" class="video-card-details-text-tile">
+                                            <h3>Djo - 'End of Beginning' (live at Laneway 2025)</h3>
+                                            <img id="video-card-thumb-dots-menu" class="video-card-thumb-dots-menu" title="Options" alt="Options" src="./assets/svg/svg-three-dots.svg" >
+                                        </div>
+
+
+                                        <div id="video-card-details-text-2" class="video-card-details-text-2">
+                                            <img id="video-card-details-channel-img" class="video-card-details-channel-img" alt="" src="https://yt3.ggpht.com/cmycB_xqU9BRUqBeDxft-hZZGOi0jiX-u0rj1d7W_8sDlPxxWZk-9Qxiafbns3qdiIuG3BRqZQ=s68-c-k-c0x00ffffff-no-rj" >
+                                            <div id="video-card-details-block" class="video-card-details-block">
+                                                <div id="video-card-details-block-in" class="video-card-details-block-in">
+                                                    <p>triple j</p>
+                                                    <img id="video-card-details-verify-channel" class="video-card-details-verify-channel" src="" alt="">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li>
+                            <div id="video-card" class="video-card">
+                                <img id="video-card-thumb" class="video-card-thumb" alt="" src="https://i.ytimg.com/vi/Ec08db2hP10/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBTHZ6Bn7fqu2Nf57CwgtOahVJoIQ" >
+                                <div id="video-card-details" class="video-card-details">
+                                    <div id="video-card-details-text" class="video-card-details-text">
+                                        
+                                        <div id="video-card-details-text-tile" class="video-card-details-text-tile">
+                                            <h3>Djo - 'End of Beginning' (live at Laneway 2025)</h3>
+                                            <img id="video-card-thumb-dots-menu" class="video-card-thumb-dots-menu" title="Options" alt="Options" src="./assets/svg/svg-three-dots.svg" >
+                                        </div>
+
+
+                                        <div id="video-card-details-text-2" class="video-card-details-text-2">
+                                            <img id="video-card-details-channel-img" class="video-card-details-channel-img" alt="" src="https://yt3.ggpht.com/cmycB_xqU9BRUqBeDxft-hZZGOi0jiX-u0rj1d7W_8sDlPxxWZk-9Qxiafbns3qdiIuG3BRqZQ=s68-c-k-c0x00ffffff-no-rj" >
+                                            <div id="video-card-details-block" class="video-card-details-block">
+                                                <div id="video-card-details-block-in" class="video-card-details-block-in">
+                                                    <p>triple j</p>
+                                                    <img id="video-card-details-verify-channel" class="video-card-details-verify-channel" src="" alt="">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li>
+                            <div id="video-card" class="video-card">
+                                <img id="video-card-thumb" class="video-card-thumb" alt="" src="https://i.ytimg.com/vi/Ec08db2hP10/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBTHZ6Bn7fqu2Nf57CwgtOahVJoIQ" >
+                                <div id="video-card-details" class="video-card-details">
+                                    <div id="video-card-details-text" class="video-card-details-text">
+                                        
+                                        <div id="video-card-details-text-tile" class="video-card-details-text-tile">
+                                            <h3>Djo - 'End of Beginning' (live at Laneway 2025)</h3>
+                                            <img id="video-card-thumb-dots-menu" class="video-card-thumb-dots-menu" title="Options" alt="Options" src="./assets/svg/svg-three-dots.svg" >
+                                        </div>
+
+
+                                        <div id="video-card-details-text-2" class="video-card-details-text-2">
+                                            <img id="video-card-details-channel-img" class="video-card-details-channel-img" alt="" src="https://yt3.ggpht.com/cmycB_xqU9BRUqBeDxft-hZZGOi0jiX-u0rj1d7W_8sDlPxxWZk-9Qxiafbns3qdiIuG3BRqZQ=s68-c-k-c0x00ffffff-no-rj" >
+                                            <div id="video-card-details-block" class="video-card-details-block">
+                                                <div id="video-card-details-block-in" class="video-card-details-block-in">
+                                                    <p>triple j</p>
+                                                    <img id="video-card-details-verify-channel" class="video-card-details-verify-channel" src="" alt="">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li>
+                            <div id="video-card" class="video-card">
+                                <img id="video-card-thumb" class="video-card-thumb" alt="" src="https://i.ytimg.com/vi/Ec08db2hP10/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBTHZ6Bn7fqu2Nf57CwgtOahVJoIQ" >
+                                <div id="video-card-details" class="video-card-details">
+                                    <div id="video-card-details-text" class="video-card-details-text">
+                                        
+                                        <div id="video-card-details-text-tile" class="video-card-details-text-tile">
+                                            <h3>Djo - 'End of Beginning' (live at Laneway 2025)</h3>
+                                            <img id="video-card-thumb-dots-menu" class="video-card-thumb-dots-menu" title="Options" alt="Options" src="./assets/svg/svg-three-dots.svg" >
+                                        </div>
+
+
+                                        <div id="video-card-details-text-2" class="video-card-details-text-2">
+                                            <img id="video-card-details-channel-img" class="video-card-details-channel-img" alt="" src="https://yt3.ggpht.com/cmycB_xqU9BRUqBeDxft-hZZGOi0jiX-u0rj1d7W_8sDlPxxWZk-9Qxiafbns3qdiIuG3BRqZQ=s68-c-k-c0x00ffffff-no-rj" >
+                                            <div id="video-card-details-block" class="video-card-details-block">
+                                                <div id="video-card-details-block-in" class="video-card-details-block-in">
+                                                    <p>triple j</p>
+                                                    <img id="video-card-details-verify-channel" class="video-card-details-verify-channel" src="" alt="">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li>
+                            <div id="video-card" class="video-card">
+                                <img id="video-card-thumb" class="video-card-thumb" alt="" src="https://i.ytimg.com/vi/Ec08db2hP10/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBTHZ6Bn7fqu2Nf57CwgtOahVJoIQ" >
+                                <div id="video-card-details" class="video-card-details">
+                                    <div id="video-card-details-text" class="video-card-details-text">
+                                        
+                                        <div id="video-card-details-text-tile" class="video-card-details-text-tile">
+                                            <h3>Djo - 'End of Beginning' (live at Laneway 2025)</h3>
+                                            <img id="video-card-thumb-dots-menu" class="video-card-thumb-dots-menu" title="Options" alt="Options" src="./assets/svg/svg-three-dots.svg" >
+                                        </div>
+
+
+                                        <div id="video-card-details-text-2" class="video-card-details-text-2">
+                                            <img id="video-card-details-channel-img" class="video-card-details-channel-img" alt="" src="https://yt3.ggpht.com/cmycB_xqU9BRUqBeDxft-hZZGOi0jiX-u0rj1d7W_8sDlPxxWZk-9Qxiafbns3qdiIuG3BRqZQ=s68-c-k-c0x00ffffff-no-rj" >
+                                            <div id="video-card-details-block" class="video-card-details-block">
+                                                <div id="video-card-details-block-in" class="video-card-details-block-in">
+                                                    <p>triple j</p>
+                                                    <img id="video-card-details-verify-channel" class="video-card-details-verify-channel" src="" alt="">
                                                 </div>
                                             </div>
                                         </div>
