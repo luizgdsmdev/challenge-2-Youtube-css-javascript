@@ -33,7 +33,7 @@
 }
 
 .sidebar-wrapper ul ul{
-    border: none;
+    border: none; 
 }
 
 #sidebar-wrapper:nth-child(1) ul li{ 

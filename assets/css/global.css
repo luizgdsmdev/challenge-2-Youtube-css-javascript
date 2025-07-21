@@ -31,7 +31,7 @@
     background-color: yellow;
     grid-area: footer;
 }
-
+ 
 
 @media screen and (max-width:1440px){
     .main{

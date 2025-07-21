@@ -1,12 +1,12 @@
 
 
-.content-main{
+.content-main{ 
     display: grid;
     grid-template-rows: 55px 17fr;
     grid-template-areas: 
     "tags-list"
     "videos-list";
-    background-color: var(--global-background-darkMode);
+    background-color: var(--global-background-darkMode); 
     grid-area: content-main;
     margin-top: 1.5rem;
 }

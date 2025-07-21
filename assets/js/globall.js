@@ -38,7 +38,7 @@ headerButtonMobileSearch.addEventListener("click", (event) =>{
     let headerButtonMobileVoiceSearch = document.getElementById("header-button-mobile-voice-search-svg");
     let headerEndHolder = document.getElementById("header-end-holder");
 
-    event.stopPropagation();
+    event.stopPropagation(); 
 
     if(screenWidthSize <= 768){
         let crtlHideShowFluxInput = validator ? 1400 : 400;
