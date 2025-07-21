@@ -8,6 +8,7 @@
     "videos-list";
     background-color: var(--global-background-darkMode);
     grid-area: content-main;
+    margin-top: 1.5rem;
 }
 
 .tags-list {

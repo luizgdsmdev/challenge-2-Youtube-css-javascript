@@ -2,11 +2,11 @@
     background-color: transparent;
     grid-area: sidebar;
     position: sticky;
-    top: 4.6rem;
+    top: 5rem;
     z-index: 99;
     color: white;
     overflow-y: scroll;
-    height: calc(100vh - 4.6rem);
+    height: calc(100vh - 5rem);
     scrollbar-width: thin;
     scrollbar-color: transparent transparent;
     margin-right: 1rem;
