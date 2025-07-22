@@ -176,6 +176,7 @@
 
 .header-button-create-svg{
     margin-right: 0.6rem;
+    transition: 0.8s ease-in-out;
 }
 
 .header-button-create-text{
@@ -355,6 +356,58 @@
     display: block;
 }
 
+.showCreationDisplay{
+    display: block!important;
+}
+
+.creation-display{
+    margin-top: 7.5rem;
+    margin-left: -10.1rem;
+    width: auto;
+    height: auto;
+    max-width: 11rem;
+    max-height: 360px;
+    position: absolute;
+    border-radius: 1rem;
+    background-color: #282828;
+    overflow: auto;
+    transition: 0.6s ease-in-out;
+    display: none;
+}
+
+.creation-display ul{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    justify-content: center;
+    align-items: flex-start;
+    padding-top: 1rem;
+    align-content: center;
+    text-align: left;
+    text-align: -webkit-left;
+}
+
+.creation-display li{
+    padding: 0.6rem 1.2rem 0.6rem;
+    min-width: 8.2rem;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: center;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.creation-display li:last-child{
+    padding: 0.6rem 1.2rem 0.8rem;
+}
+
+.creation-display ul li:hover{
+    background-color: rgba(62, 62, 62, 1)
+}
+
 @media screen and (max-width:1060px) {
     .header-middle-holder{
         max-width: 465px;
@@ -416,8 +469,11 @@
         font-size: 0.9rem;
         padding: 0 0.5rem;
     }
-}
 
+    .creation-display{
+        margin-top: 12.5rem;
+    }
+}
 
 @media screen and (max-width:560px) {
     .header-button-notifications{

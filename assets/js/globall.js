@@ -143,5 +143,17 @@ notificationButtom.addEventListener("click", (event) => {
     headerButtonNotifications.src = srcElementSVG.includes("svg-notifications.svg") ? "./assets/svg/svg-close-search.svg" : "./assets/svg/svg-notifications.svg";
     notificationsDisplay.classList.toggle("showNotificationDisplay");
 
+});
 
+
+//Manage the creation click
+let headerButtonCreate = document.getElementById("header-button-create");
+
+headerButtonCreate.addEventListener("click", () => {
+    let creationDisplay = document.getElementById("creation-display");
+    let creationButtomSvg = document.getElementById("header-button-create-svg");
+    let srcCeationButtomSvg = creationButtomSvg.src;
+
+    creationButtomSvg.src = srcCeationButtomSvg.includes("svg-plus-sign.svg") ? "./assets/svg/svg-close-search.svg" : "./assets/svg/svg-plus-sign.svg";
+    creationDisplay.classList.toggle("showCreationDisplay");
 });
