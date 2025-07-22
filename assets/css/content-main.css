@@ -5,10 +5,11 @@
     grid-template-rows: 55px 17fr;
     grid-template-areas: 
     "tags-list"
-    "videos-list";
+    "videos-list"; 
     background-color: var(--global-background-darkMode); 
     grid-area: content-main;
     margin-top: 1.5rem;
+    transition: 0.6s ease-in-out;
 }
 
 .tags-list {
@@ -32,6 +33,7 @@
     font-size: 0.9rem;
     transition: 0.3s ease-in-out;
     width: fit-content;
+    cursor: pointer;
 }
 
 .tags-list li.tags-list-selected{
@@ -572,7 +574,4 @@
         max-width: 265px;
     }
 }
-
-
-
 

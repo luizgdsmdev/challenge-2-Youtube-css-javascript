@@ -20,7 +20,7 @@
     text-align: -webkit-center;
 }
 
-.sidebar-block-selected{ 
+.sidebar-block-selected{  
  background-color: #272727!important;
 }
 
@@ -43,6 +43,7 @@
 .sidebar-item li{ 
     border: 0;
     margin-top: 0.5rem;
+    cursor: pointer;
 }
 
 .sidebar-item li:hover{ 
@@ -69,6 +70,24 @@
 }
 
 
+.hideNavbar{ /* add to the .main element  */
+    grid-template-columns: 6rem 10fr!important;
+}
+
+.hideSidebarTextItem{
+    display: none;
+}
+
+.AddmarginLeftSidebar{
+    margin-left: 0.8rem!important;
+    margin-right: 2rem!important;
+}
+
+@media screen and (min-width:1441px){
+    .AddmarginLeftSidebar{
+        margin-right: 1.3rem!important;
+    }
+}
 
 @media screen and (max-width:1440px){
     .sidebar{
@@ -80,11 +99,44 @@
     .sidebar-wrapper p{
         display: none;
     }
+
+    
     .sidebar-wrapper img{
         margin-right: 0;
     }
     .sidebar-wrapper > ul > li > ul > li{
         width: fit-content;
+    }
+
+    .hideSidebarTextItem{
+        display: block!important;
+        margin-left: 0.5rem;
+        margin-right: 0.3rem;
+    }
+    .hideNavbar{
+        grid-template-columns: 13rem 10fr!important
+    }
+}
+
+@media screen and (max-width:768px) {
+    .hideNavbar{
+        grid-template-columns: 0rem 10fr!important;
+    }
+    
+    .AddmarginLeftSidebar{
+        position: sticky;
+        position: -webkit-sticky;
+        background-color: var(--global-background-darkMode);
+        margin-left: 0!important;
+        margin-right: 1rem!important;
+        padding-left: 0.8rem;
+        padding-right: 1.5rem;
+        padding-top: 2rem;
+        width: 12rem;
+    }
+
+    .setopacityForContentMain{
+        opacity: 0.15!important;
     }
 }
 

@@ -1,5 +1,6 @@
 
 var screenWidthSize = window.innerWidth;
+var mainHtml = document.getElementById("main"); //Capture the element with grid to controle the sidebar
 
 
 // Verify if the user clicked on the input search
@@ -28,7 +29,7 @@ headerInputSearch.addEventListener("focus", (event) =>{
 });
 
 
-// Mobile interaction
+// Interaction for header
 let headerButtonMobileSearch = document.getElementById("header-button-mobile-search");
 let validator = true;
 
@@ -67,4 +68,64 @@ headerButtonMobileSearch.addEventListener("click", (event) =>{
 
 });
 
+
+
+
+// Interaction for navbar
+let headerButtonHamburguerMenu = document.getElementById("header-button-hamburguer-menu");
+
+
+headerButtonHamburguerMenu.addEventListener("click", (event) =>{
+    event.stopImmediatePropagation();
+
+    let textElementsFromSideBar = document.querySelectorAll(".sidebar-text-item");
+    let sidebarHtmlElement = document.getElementById("sidebar");
+    let contentMain = document.getElementById("content-main");
+
+    mainHtml.classList.toggle("hideNavbar");
+    sidebarHtmlElement.classList.toggle("AddmarginLeftSidebar");
+    contentMain.classList.toggle("setopacityForContentMain");
+
+    textElementsFromSideBar.forEach(item =>{
+        item.classList.toggle("hideSidebarTextItem");
+    });
+});
+
+
+//Manage the sidebar item click
+let sidebarHtmlElementA = document.querySelectorAll("li.sidebar-item-intern");
+
+sidebarHtmlElementA.forEach(itemSelected => {
+    itemSelected.addEventListener("click", (event) =>{ 
+        event.stopImmediatePropagation();
+        let lastSidebarElementSelect = document.querySelectorAll(".sidebar-block-selected");
+        lastSidebarElementSelect.forEach(item => {
+            item.classList.toggle("sidebar-block-selected");
+        });
+
+        itemSelected.classList.toggle("sidebar-block-selected");
+
+    });
+});
+
+let sidebarSelect = document.querySelectorAll(".sidebar-block-selected");
+
+
+
+//Manage the tag-list (main content) item click
+let tagsListItem = document.querySelectorAll(".tags-list-item");
+
+tagsListItem.forEach(liHtmlItem =>{
+    liHtmlItem.addEventListener("click", (event) =>{
+    event.stopImmediatePropagation();
+    
+    let tagsListItemLastSelected = document.querySelectorAll(".tags-list-selected");
+    tagsListItemLastSelected.forEach(itemSelected =>{
+        itemSelected.classList.toggle("tags-list-selected");
+    }); 
+
+    liHtmlItem.classList.toggle("tags-list-selected");
+
+    });
+});
 
