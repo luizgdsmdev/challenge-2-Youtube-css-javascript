@@ -129,3 +129,19 @@ tagsListItem.forEach(liHtmlItem =>{
     });
 });
 
+
+//Manage the notification click
+let notificationButtom = document.getElementById("header-button-notifications");
+
+notificationButtom.addEventListener("click", (event) => {
+    event.stopImmediatePropagation();
+
+    let notificationsDisplay = document.getElementById("notifications-display");
+    let headerButtonNotifications = document.getElementById("header-button-notifications");
+    let srcElementSVG = headerButtonNotifications.src
+
+    headerButtonNotifications.src = srcElementSVG.includes("svg-notifications.svg") ? "./assets/svg/svg-close-search.svg" : "./assets/svg/svg-notifications.svg";
+    notificationsDisplay.classList.toggle("showNotificationDisplay");
+
+
+});
