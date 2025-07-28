@@ -1,7 +1,5 @@
-
 var screenWidthSize = window.innerWidth;
 var mainHtml = document.getElementById("main"); //Capture the element with grid to controle the sidebar
-
 
 // Verify if the user clicked on the input search
 let headerInputSearch = document.getElementById("header-input-search");
@@ -27,7 +25,6 @@ headerInputSearch.addEventListener("focus", (event) =>{
         inputCleanText.style.display = "none"
     });
 });
-
 
 // Interaction for header
 let headerButtonMobileSearch = document.getElementById("header-button-mobile-search");
@@ -68,12 +65,8 @@ headerButtonMobileSearch.addEventListener("click", (event) =>{
 
 });
 
-
-
-
 // Interaction for navbar
 let headerButtonHamburguerMenu = document.getElementById("header-button-hamburguer-menu");
-
 
 headerButtonHamburguerMenu.addEventListener("click", (event) =>{
     event.stopImmediatePropagation();
@@ -90,7 +83,6 @@ headerButtonHamburguerMenu.addEventListener("click", (event) =>{
         item.classList.toggle("hideSidebarTextItem");
     });
 });
-
 
 //Manage the sidebar item click
 let sidebarHtmlElementA = document.querySelectorAll("li.sidebar-item-intern");
@@ -110,8 +102,6 @@ sidebarHtmlElementA.forEach(itemSelected => {
 
 let sidebarSelect = document.querySelectorAll(".sidebar-block-selected");
 
-
-
 //Manage the tag-list (main content) item click
 let tagsListItem = document.querySelectorAll(".tags-list-item");
 
@@ -129,7 +119,6 @@ tagsListItem.forEach(liHtmlItem =>{
     });
 });
 
-
 //Manage the notification click
 let notificationButtom = document.getElementById("header-button-notifications");
 
@@ -144,7 +133,6 @@ notificationButtom.addEventListener("click", (event) => {
     notificationsDisplay.classList.toggle("showNotificationDisplay");
 
 });
-
 
 //Manage the creation click
 let headerButtonCreate = document.getElementById("header-button-create");

@@ -18,7 +18,8 @@
             "channelIcon": "https://yt3.googleusercontent.com/ytc/AIdro_mKzklyPPhghBJQH5H3HpZ108YcE618DBRLAvRUD1AjKNw=s160-c-k-c0x00ffffff-no-rj",
             "videoLink": "https://www.youtube.com/watch?v=UIVADiGfwWc",
             "videoID": "UIVADiGfwWc",
-            "postData": "10/03/2025"
+            "postData": "10/03/2025",
+            "viwes": 2796804
             },
             {
             "name": "I built 10 web apps... with 10 different languages",
@@ -27,7 +28,8 @@
             "channelIcon": "https://yt3.googleusercontent.com/ytc/AIdro_mKzklyPPhghBJQH5H3HpZ108YcE618DBRLAvRUD1AjKNw=s160-c-k-c0x00ffffff-no-rj",
             "videoLink": "https://www.youtube.com/watch?v=FQPlEnKav48",
             "videoID": "FQPlEnKav48",
-            "postData": "06/04/2022"
+            "postData": "06/04/2022",
+            "viwes": 2796804
             },
             {
             "name": "Go in 100 seconds",
@@ -36,140 +38,246 @@
             "channelIcon": "https://yt3.googleusercontent.com/ytc/AIdro_mKzklyPPhghBJQH5H3HpZ108YcE618DBRLAvRUD1AjKNw=s160-c-k-c0x00ffffff-no-rj",
             "videoLink": "https://www.youtube.com/watch?v=446E-r0rXHI",
             "videoID": "446E-r0rXHI",
-            "postData": "06/04/2022"
+            "postData": "06/04/2022",
+            "viwes": 2796804
             }
         ],
         "videos":[
             {
-            "name": "Djo - 'End of Beginning' (live at Laneway 2025)",
-            "thumb": "https://i.ytimg.com/vi/Ec08db2hP10/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBTHZ6Bn7fqu2Nf57CwgtOahVJoIQ",
-            "channel": "triple j",
-            "channelIcon": "triple j",
-            "videoLink": ""
+            "name": "How to OVER Engineer a Website // What is a Tech Stack?",
+            "thumb": "https://i.ytimg.com/vi/Sxxw3qtb3_g/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBeqcKP8SASb1pdBrMZGkqCGLNssQ",
+            "channel": "Fireship",
+            "channelIcon": "https://yt3.googleusercontent.com/ytc/AIdro_mKzklyPPhghBJQH5H3HpZ108YcE618DBRLAvRUD1AjKNw=s160-c-k-c0x00ffffff-no-rj",
+            "videoLink": "https://www.youtube.com/watch?v=Sxxw3qtb3_g",
+            "videoID": "Sxxw3qtb3_g",
+            "postData": "24/12/2021",
+            "viwes": 2796804
             },
             {
-            "name": "Djo - 'End of Beginning' (live at Laneway 2025)",
-            "thumb": "https://i.ytimg.com/vi/Ec08db2hP10/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBTHZ6Bn7fqu2Nf57CwgtOahVJoIQ",
-            "channel": "triple j",
-            "channelIcon": "triple j",
-            "videoLink": ""
+            "name": "Our AI girlfriends just leveled up…",
+            "thumb": "https://i.ytimg.com/vi/UIVADiGfwWc/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDPSbLFSZqQs2zX9Ao1aQo1Iuo4tw",
+            "channel": "Fireship",
+            "channelIcon": "https://yt3.googleusercontent.com/ytc/AIdro_mKzklyPPhghBJQH5H3HpZ108YcE618DBRLAvRUD1AjKNw=s160-c-k-c0x00ffffff-no-rj",
+            "videoLink": "https://www.youtube.com/watch?v=UIVADiGfwWc",
+            "videoID": "UIVADiGfwWc",
+            "postData": "10/03/2025",
+            "viwes": 2796804
             },
             {
-            "name": "Djo - 'End of Beginning' (live at Laneway 2025)",
-            "thumb": "https://i.ytimg.com/vi/Ec08db2hP10/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBTHZ6Bn7fqu2Nf57CwgtOahVJoIQ",
-            "channel": "triple j",
-            "channelIcon": "triple j",
-            "videoLink": ""
+            "name": "I built 10 web apps... with 10 different languages",
+            "thumb": "https://i.ytimg.com/vi/FQPlEnKav48/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCTSvLZovMUcflPWaHJRv5zTzzTeg",
+            "channel": "Fireship",
+            "channelIcon": "https://yt3.googleusercontent.com/ytc/AIdro_mKzklyPPhghBJQH5H3HpZ108YcE618DBRLAvRUD1AjKNw=s160-c-k-c0x00ffffff-no-rj",
+            "videoLink": "https://www.youtube.com/watch?v=FQPlEnKav48",
+            "videoID": "FQPlEnKav48",
+            "postData": "06/04/2022",
+            "viwes": 2796804
             },
             {
-            "name": "Djo - 'End of Beginning' (live at Laneway 2025)",
-            "thumb": "https://i.ytimg.com/vi/Ec08db2hP10/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBTHZ6Bn7fqu2Nf57CwgtOahVJoIQ",
-            "channel": "triple j",
-            "channelIcon": "triple j",
-            "videoLink": ""
+            "name": "Go in 100 seconds",
+            "thumb": "https://i.ytimg.com/vi/446E-r0rXHI/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLClxvmncxJmRwaLrMRly9R5pN18Cg",
+            "channel": "Fireship",
+            "channelIcon": "https://yt3.googleusercontent.com/ytc/AIdro_mKzklyPPhghBJQH5H3HpZ108YcE618DBRLAvRUD1AjKNw=s160-c-k-c0x00ffffff-no-rj",
+            "videoLink": "https://www.youtube.com/watch?v=446E-r0rXHI",
+            "videoID": "446E-r0rXHI",
+            "postData": "06/04/2022",
+            "viwes": 2796804
             }
         ],
         "latest_news":[
             {
-            "name": "Djo - 'End of Beginning' (live at Laneway 2025)",
-            "thumb": "https://i.ytimg.com/vi/Ec08db2hP10/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBTHZ6Bn7fqu2Nf57CwgtOahVJoIQ",
-            "channel": "triple j",
-            "channelIcon": "triple j",
-            "videoLink": ""
+            "name": "How to OVER Engineer a Website // What is a Tech Stack?",
+            "thumb": "https://i.ytimg.com/vi/Sxxw3qtb3_g/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBeqcKP8SASb1pdBrMZGkqCGLNssQ",
+            "channel": "Fireship",
+            "channelIcon": "https://yt3.googleusercontent.com/ytc/AIdro_mKzklyPPhghBJQH5H3HpZ108YcE618DBRLAvRUD1AjKNw=s160-c-k-c0x00ffffff-no-rj",
+            "videoLink": "https://www.youtube.com/watch?v=Sxxw3qtb3_g",
+            "videoID": "Sxxw3qtb3_g",
+            "postData": "24/12/2021",
+            "viwes": 2796804
             },
             {
-            "name": "Djo - 'End of Beginning' (live at Laneway 2025)",
-            "thumb": "https://i.ytimg.com/vi/Ec08db2hP10/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBTHZ6Bn7fqu2Nf57CwgtOahVJoIQ",
-            "channel": "triple j",
-            "channelIcon": "triple j",
-            "videoLink": ""
+            "name": "Our AI girlfriends just leveled up…",
+            "thumb": "https://i.ytimg.com/vi/UIVADiGfwWc/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDPSbLFSZqQs2zX9Ao1aQo1Iuo4tw",
+            "channel": "Fireship",
+            "channelIcon": "https://yt3.googleusercontent.com/ytc/AIdro_mKzklyPPhghBJQH5H3HpZ108YcE618DBRLAvRUD1AjKNw=s160-c-k-c0x00ffffff-no-rj",
+            "videoLink": "https://www.youtube.com/watch?v=UIVADiGfwWc",
+            "videoID": "UIVADiGfwWc",
+            "postData": "10/03/2025",
+            "viwes": 2796804
             },
             {
-            "name": "Djo - 'End of Beginning' (live at Laneway 2025)",
-            "thumb": "https://i.ytimg.com/vi/Ec08db2hP10/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBTHZ6Bn7fqu2Nf57CwgtOahVJoIQ",
-            "channel": "triple j",
-            "channelIcon": "triple j",
-            "videoLink": ""
+            "name": "I built 10 web apps... with 10 different languages",
+            "thumb": "https://i.ytimg.com/vi/FQPlEnKav48/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCTSvLZovMUcflPWaHJRv5zTzzTeg",
+            "channel": "Fireship",
+            "channelIcon": "https://yt3.googleusercontent.com/ytc/AIdro_mKzklyPPhghBJQH5H3HpZ108YcE618DBRLAvRUD1AjKNw=s160-c-k-c0x00ffffff-no-rj",
+            "videoLink": "https://www.youtube.com/watch?v=FQPlEnKav48",
+            "videoID": "FQPlEnKav48",
+            "postData": "06/04/2022",
+            "viwes": 2796804
             },
             {
-            "name": "Djo - 'End of Beginning' (live at Laneway 2025)",
-            "thumb": "https://i.ytimg.com/vi/Ec08db2hP10/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBTHZ6Bn7fqu2Nf57CwgtOahVJoIQ",
-            "channel": "triple j",
-            "channelIcon": "triple j",
-            "videoLink": ""
+            "name": "Go in 100 seconds",
+            "thumb": "https://i.ytimg.com/vi/446E-r0rXHI/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLClxvmncxJmRwaLrMRly9R5pN18Cg",
+            "channel": "Fireship",
+            "channelIcon": "https://yt3.googleusercontent.com/ytc/AIdro_mKzklyPPhghBJQH5H3HpZ108YcE618DBRLAvRUD1AjKNw=s160-c-k-c0x00ffffff-no-rj",
+            "videoLink": "https://www.youtube.com/watch?v=446E-r0rXHI",
+            "videoID": "446E-r0rXHI",
+            "postData": "06/04/2022",
+            "viwes": 2796804
             }
         ]
     },
     "shorts":[
         {
-        "name": "upgrade no setup! monitores da terabyte! #setup #unboxing #pcgamer",
-        "thumb": "https://i.ytimg.com/vi/lOZfUNNV710/oardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAIhC2AEB4gEKCBgQAhgGOAFAAQ==&rs=AOn4CLAdrATyYsL5GGMoWSInilplmYfvgw",
-        "view": 1400000,
-        "shortsLink": ""
+        "name": "5 Life-Changing Linux Tips",
+        "thumb": "https://i.ytimg.com/vi/fwBIZRq-vzY/oardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAIhC2AEB4gEKCBgQAhgGOAFAAQ==&rs=AOn4CLDDB6ZPHR9nQ60Lr4X8FIVK_xKbJg",
+        "view": 1300000,
+        "shortsLink": "https://www.youtube.com/shorts/fwBIZRq-vzY"
         },
         {
-        "name": "upgrade no setup! monitores da terabyte! #setup #unboxing #pcgamer",
-        "thumb": "https://i.ytimg.com/vi/lOZfUNNV710/oardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAIhC2AEB4gEKCBgQAhgGOAFAAQ==&rs=AOn4CLAdrATyYsL5GGMoWSInilplmYfvgw",
-        "view": 1400000,
-        "shortsLink": ""
+        "name": "This rubber duck can repair your code",
+        "thumb": "https://i.ytimg.com/vi/oRBvLbdMKM0/oar2.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAIhC2AEB4gEKCBgQAhgGOAFAAQ==&rs=AOn4CLAeqLsRTETWDieiX6qN9HAGll7JTw",
+        "view": 405000,
+        "shortsLink": "https://www.youtube.com/shorts/oRBvLbdMKM0"
+        },
+        {
+        "name": "Big O explained with a deck of cards",
+        "thumb": "https://i.ytimg.com/vi/WbF2bLbAUik/oardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAIhC2AEB4gEKCBgQAhgGOAFAAQ==&rs=AOn4CLCE3VOAVbtaurmZigSxtv9As_txGg",
+        "view": 1450001,
+        "shortsLink": "https://www.youtube.com/shorts/WbF2bLbAUik"
+        },
+        {
+        "name": "Yo mama so FAT32...",
+        "thumb": "https://i.ytimg.com/vi/0xnuhmqRvVQ/oar2.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAIhC2AEB4gEKCBgQAhgGOAFAAQ==&rs=AOn4CLDSHZJYaOG9UT3FFq-z2Cjpzszbcw",
+        "view": 1650001,
+        "shortsLink": "https://www.youtube.com/shorts/0xnuhmqRvVQ"
+        },
+        {
+        "name": "Real eyes realize AI lies",
+        "thumb": "https://i.ytimg.com/vi/Z8omJ59hNfY/oar2.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAIhC2AEB4gEKCBgQAhgGOAFAAQ==&rs=AOn4CLDKUPkhfufx5jplgJTMHw7Msnph9Q",
+        "view": 2950001,
+        "shortsLink": "https://www.youtube.com/shorts/Z8omJ59hNfY"
         }
     ],
     "videos_scroll":[
             {
-            "name": "Djo - 'End of Beginning' (live at Laneway 2025)",
-            "thumb": "https://i.ytimg.com/vi/Ec08db2hP10/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBTHZ6Bn7fqu2Nf57CwgtOahVJoIQ",
-            "channel": "triple j",
-            "channelIcon": "triple j",
-            "videoLink": ""
+            "name": "How to OVER Engineer a Website // What is a Tech Stack?",
+            "thumb": "https://i.ytimg.com/vi/Sxxw3qtb3_g/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBeqcKP8SASb1pdBrMZGkqCGLNssQ",
+            "channel": "Fireship",
+            "channelIcon": "https://yt3.googleusercontent.com/ytc/AIdro_mKzklyPPhghBJQH5H3HpZ108YcE618DBRLAvRUD1AjKNw=s160-c-k-c0x00ffffff-no-rj",
+            "videoLink": "https://www.youtube.com/watch?v=Sxxw3qtb3_g",
+            "videoID": "Sxxw3qtb3_g",
+            "postData": "24/12/2021",
+            "viwes": 2796804
             },
             {
-            "name": "Djo - 'End of Beginning' (live at Laneway 2025)",
-            "thumb": "https://i.ytimg.com/vi/Ec08db2hP10/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBTHZ6Bn7fqu2Nf57CwgtOahVJoIQ",
-            "channel": "triple j",
-            "channelIcon": "triple j",
-            "videoLink": ""
+            "name": "Our AI girlfriends just leveled up…",
+            "thumb": "https://i.ytimg.com/vi/UIVADiGfwWc/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDPSbLFSZqQs2zX9Ao1aQo1Iuo4tw",
+            "channel": "Fireship",
+            "channelIcon": "https://yt3.googleusercontent.com/ytc/AIdro_mKzklyPPhghBJQH5H3HpZ108YcE618DBRLAvRUD1AjKNw=s160-c-k-c0x00ffffff-no-rj",
+            "videoLink": "https://www.youtube.com/watch?v=UIVADiGfwWc",
+            "videoID": "UIVADiGfwWc",
+            "postData": "10/03/2025",
+            "viwes": 2796804
             },
             {
-            "name": "Djo - 'End of Beginning' (live at Laneway 2025)",
-            "thumb": "https://i.ytimg.com/vi/Ec08db2hP10/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBTHZ6Bn7fqu2Nf57CwgtOahVJoIQ",
-            "channel": "triple j",
-            "channelIcon": "triple j",
-            "videoLink": ""
+            "name": "I built 10 web apps... with 10 different languages",
+            "thumb": "https://i.ytimg.com/vi/FQPlEnKav48/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCTSvLZovMUcflPWaHJRv5zTzzTeg",
+            "channel": "Fireship",
+            "channelIcon": "https://yt3.googleusercontent.com/ytc/AIdro_mKzklyPPhghBJQH5H3HpZ108YcE618DBRLAvRUD1AjKNw=s160-c-k-c0x00ffffff-no-rj",
+            "videoLink": "https://www.youtube.com/watch?v=FQPlEnKav48",
+            "videoID": "FQPlEnKav48",
+            "postData": "06/04/2022",
+            "viwes": 2796804
             },
             {
-            "name": "Djo - 'End of Beginning' (live at Laneway 2025)",
-            "thumb": "https://i.ytimg.com/vi/Ec08db2hP10/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBTHZ6Bn7fqu2Nf57CwgtOahVJoIQ",
-            "channel": "triple j",
-            "channelIcon": "triple j",
-            "videoLink": ""
+            "name": "Go in 100 seconds",
+            "thumb": "https://i.ytimg.com/vi/446E-r0rXHI/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLClxvmncxJmRwaLrMRly9R5pN18Cg",
+            "channel": "Fireship",
+            "channelIcon": "https://yt3.googleusercontent.com/ytc/AIdro_mKzklyPPhghBJQH5H3HpZ108YcE618DBRLAvRUD1AjKNw=s160-c-k-c0x00ffffff-no-rj",
+            "videoLink": "https://www.youtube.com/watch?v=446E-r0rXHI",
+            "videoID": "446E-r0rXHI",
+            "postData": "06/04/2022",
+            "viwes": 2796804
             },
             {
-            "name": "Djo - 'End of Beginning' (live at Laneway 2025)",
-            "thumb": "https://i.ytimg.com/vi/Ec08db2hP10/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBTHZ6Bn7fqu2Nf57CwgtOahVJoIQ",
-            "channel": "triple j",
-            "channelIcon": "triple j",
-            "videoLink": ""
+            "name": "How to OVER Engineer a Website // What is a Tech Stack?",
+            "thumb": "https://i.ytimg.com/vi/Sxxw3qtb3_g/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBeqcKP8SASb1pdBrMZGkqCGLNssQ",
+            "channel": "Fireship",
+            "channelIcon": "https://yt3.googleusercontent.com/ytc/AIdro_mKzklyPPhghBJQH5H3HpZ108YcE618DBRLAvRUD1AjKNw=s160-c-k-c0x00ffffff-no-rj",
+            "videoLink": "https://www.youtube.com/watch?v=Sxxw3qtb3_g",
+            "videoID": "Sxxw3qtb3_g",
+            "postData": "24/12/2021",
+            "viwes": 2796804
             },
             {
-            "name": "Djo - 'End of Beginning' (live at Laneway 2025)",
-            "thumb": "https://i.ytimg.com/vi/Ec08db2hP10/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBTHZ6Bn7fqu2Nf57CwgtOahVJoIQ",
-            "channel": "triple j",
-            "channelIcon": "triple j",
-            "videoLink": ""
+            "name": "Our AI girlfriends just leveled up…",
+            "thumb": "https://i.ytimg.com/vi/UIVADiGfwWc/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDPSbLFSZqQs2zX9Ao1aQo1Iuo4tw",
+            "channel": "Fireship",
+            "channelIcon": "https://yt3.googleusercontent.com/ytc/AIdro_mKzklyPPhghBJQH5H3HpZ108YcE618DBRLAvRUD1AjKNw=s160-c-k-c0x00ffffff-no-rj",
+            "videoLink": "https://www.youtube.com/watch?v=UIVADiGfwWc",
+            "videoID": "UIVADiGfwWc",
+            "postData": "10/03/2025",
+            "viwes": 2796804
             },
             {
-            "name": "Djo - 'End of Beginning' (live at Laneway 2025)",
-            "thumb": "https://i.ytimg.com/vi/Ec08db2hP10/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBTHZ6Bn7fqu2Nf57CwgtOahVJoIQ",
-            "channel": "triple j",
-            "channelIcon": "triple j",
-            "videoLink": ""
+            "name": "I built 10 web apps... with 10 different languages",
+            "thumb": "https://i.ytimg.com/vi/FQPlEnKav48/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCTSvLZovMUcflPWaHJRv5zTzzTeg",
+            "channel": "Fireship",
+            "channelIcon": "https://yt3.googleusercontent.com/ytc/AIdro_mKzklyPPhghBJQH5H3HpZ108YcE618DBRLAvRUD1AjKNw=s160-c-k-c0x00ffffff-no-rj",
+            "videoLink": "https://www.youtube.com/watch?v=FQPlEnKav48",
+            "videoID": "FQPlEnKav48",
+            "postData": "06/04/2022",
+            "viwes": 2796804
             },
             {
-            "name": "Djo - 'End of Beginning' (live at Laneway 2025)",
-            "thumb": "https://i.ytimg.com/vi/Ec08db2hP10/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBTHZ6Bn7fqu2Nf57CwgtOahVJoIQ",
-            "channel": "triple j",
-            "channelIcon": "triple j",
-            "videoLink": ""
+            "name": "Go in 100 seconds",
+            "thumb": "https://i.ytimg.com/vi/446E-r0rXHI/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLClxvmncxJmRwaLrMRly9R5pN18Cg",
+            "channel": "Fireship",
+            "channelIcon": "https://yt3.googleusercontent.com/ytc/AIdro_mKzklyPPhghBJQH5H3HpZ108YcE618DBRLAvRUD1AjKNw=s160-c-k-c0x00ffffff-no-rj",
+            "videoLink": "https://www.youtube.com/watch?v=446E-r0rXHI",
+            "videoID": "446E-r0rXHI",
+            "postData": "06/04/2022",
+            "viwes": 2796804
+            },{
+            "name": "How to OVER Engineer a Website // What is a Tech Stack?",
+            "thumb": "https://i.ytimg.com/vi/Sxxw3qtb3_g/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBeqcKP8SASb1pdBrMZGkqCGLNssQ",
+            "channel": "Fireship",
+            "channelIcon": "https://yt3.googleusercontent.com/ytc/AIdro_mKzklyPPhghBJQH5H3HpZ108YcE618DBRLAvRUD1AjKNw=s160-c-k-c0x00ffffff-no-rj",
+            "videoLink": "https://www.youtube.com/watch?v=Sxxw3qtb3_g",
+            "videoID": "Sxxw3qtb3_g",
+            "postData": "24/12/2021",
+            "viwes": 2796804
+            },
+            {
+            "name": "Our AI girlfriends just leveled up…",
+            "thumb": "https://i.ytimg.com/vi/UIVADiGfwWc/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDPSbLFSZqQs2zX9Ao1aQo1Iuo4tw",
+            "channel": "Fireship",
+            "channelIcon": "https://yt3.googleusercontent.com/ytc/AIdro_mKzklyPPhghBJQH5H3HpZ108YcE618DBRLAvRUD1AjKNw=s160-c-k-c0x00ffffff-no-rj",
+            "videoLink": "https://www.youtube.com/watch?v=UIVADiGfwWc",
+            "videoID": "UIVADiGfwWc",
+            "postData": "10/03/2025",
+            "viwes": 2796804
+            },
+            {
+            "name": "I built 10 web apps... with 10 different languages",
+            "thumb": "https://i.ytimg.com/vi/FQPlEnKav48/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCTSvLZovMUcflPWaHJRv5zTzzTeg",
+            "channel": "Fireship",
+            "channelIcon": "https://yt3.googleusercontent.com/ytc/AIdro_mKzklyPPhghBJQH5H3HpZ108YcE618DBRLAvRUD1AjKNw=s160-c-k-c0x00ffffff-no-rj",
+            "videoLink": "https://www.youtube.com/watch?v=FQPlEnKav48",
+            "videoID": "FQPlEnKav48",
+            "postData": "06/04/2022",
+            "viwes": 2796804
+            },
+            {
+            "name": "Go in 100 seconds",
+            "thumb": "https://i.ytimg.com/vi/446E-r0rXHI/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLClxvmncxJmRwaLrMRly9R5pN18Cg",
+            "channel": "Fireship",
+            "channelIcon": "https://yt3.googleusercontent.com/ytc/AIdro_mKzklyPPhghBJQH5H3HpZ108YcE618DBRLAvRUD1AjKNw=s160-c-k-c0x00ffffff-no-rj",
+            "videoLink": "https://www.youtube.com/watch?v=446E-r0rXHI",
+            "videoID": "446E-r0rXHI",
+            "postData": "06/04/2022",
+            "viwes": 2796804
             }
     ]
 }

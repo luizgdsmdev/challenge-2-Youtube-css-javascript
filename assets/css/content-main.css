@@ -61,6 +61,7 @@
 .videos-section-video{
     overflow: scroll;
     scrollbar-width: none;
+    position: relative;
 }
 
 .videos-section-video ul{
@@ -339,6 +340,9 @@
 .latest-news-card-details-text h3{
     font-size: 1.2rem;
     transition: 0.5s ease-in-out;
+        white-space: nowrap; /* Prevents text from wrapping to the next line */
+    overflow: hidden; /* Hides any overflowing content */
+    text-overflow: ellipsis;
 }
 
 .latest-news-card-details-text p{
@@ -415,6 +419,8 @@
 .news-section-icon-block img {
     width: 3.5rem;
 }
+
+
 
 
 @media screen and (max-width:1440px){
